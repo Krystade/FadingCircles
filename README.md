@@ -8,4 +8,6 @@ Simply download all the files of this repository and open the index.html file in
 Left click to create a new circle that will begin to expand and fade immediately.
 Once the circle has faded completely, the object is then deleted to prevent a slowdown of the program.
 
+### Example
+
 ![example of the program](/example.png)
